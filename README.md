@@ -2,8 +2,6 @@
 
 A modern, interactive analytics dashboard built with React that provides real-time business insights and data visualization. The application uses free APIs to generate suggestions and fetch real financial data.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000)
-
 ## Features
 
 - 📊 Real-time data visualization with interactive charts
